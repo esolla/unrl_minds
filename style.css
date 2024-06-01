@@ -1,0 +1,76 @@
+.glavnaya {
+	background-image: url(img/bg.png);
+	background-size: cover;
+	height: 100vh;
+	
+}
+.menu {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	font-family: Verdana;
+}
+.menu li {
+	display: inline-block;
+}
+.menu a {
+	display: block;
+	color: white; 
+	text-decoration: none;
+	font-size: 25px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-left: 30px;
+	padding-right: 30px;
+	transition: all 0.4s;
+	
+}
+.menu a:hover {
+	color: #FACCEE;
+	transform: scale(1.3);
+}
+.menu a.active {
+	color: #f56ed3;
+}
+
+.header { 
+	display: flex;
+	align-items: center;
+	gap: 150px;
+}
+body {
+	margin: 0;
+}
+.logo {
+	width:100px;
+	height: 100px;
+	
+}
+.socials {
+	width: 400px;
+	height:400px;
+	
+}
+.cccc {
+	text-align: center;
+	
+}
+.social {
+	width: 400px;
+	height: 200px;
+
+}
+.moda a {
+	text-decoration: none;
+	color: #FAD8F4;
+	
+}
+.suiiijit {
+	width: 300px;
+	text-align: center;
+}
+
+.fif {
+	text-align: center;
+	
+}
